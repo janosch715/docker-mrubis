@@ -1,4 +1,4 @@
-FROM jfloff/glassfish-2.1.1
+FROM jfloff/glassfish-2.1.1:6
 MAINTAINER João Loff <jfloff@gsd.inesc-id.pt>
 
 WORKDIR /home/mrubis
